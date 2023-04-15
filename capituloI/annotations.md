@@ -1,4 +1,4 @@
-### Capitulo I
+### Capitulo I - Entre Damocles e Hidra.
 
  Cómo definir "antifragil"?
  
@@ -15,7 +15,7 @@
 
 
 ### Palabras claves
-
+- Apofatico:Lo que no se puede decir, lo que no se puede nombrar.
 - Hidra de Lerna
 - Espada de Damocles
 - Mitridatismo: Resultado de la exposición a dosis pequeñas dosis de veneno, que no matan, 
